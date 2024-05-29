@@ -1,7 +1,7 @@
+// NodeList of all the panel elements
 const panels = document.querySelectorAll('.panel');
 
-console.log(panels);
-
+// Loop through all the panels and add an event listener to each panel
 panels.forEach((panel) => {
   panel.addEventListener('click', () => {
     removeActiveClasses();
@@ -9,6 +9,7 @@ panels.forEach((panel) => {
   });
 });
 
+// Function to remove the active class from all the panels
 function removeActiveClasses() {
   panels.forEach((panel) => {
     panel.classList.remove('active');
