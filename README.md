@@ -5,6 +5,7 @@ This repository contains a collection of mini projects created over the course o
 ## Projects List
 
 - [Day 01: Expanding Card](./day-01)
+- [Day 02: Progress Bars](./day-02)
 
 ## About the Challenge
 
