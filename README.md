@@ -6,6 +6,7 @@ This repository contains a collection of mini projects created over the course o
 
 - [Day 01: Expanding Card](./day-01)
 - [Day 02: Progress Bars](./day-02)
+- [Day 03: Rotating Navigation](./day-03)
 
 ## About the Challenge
 
